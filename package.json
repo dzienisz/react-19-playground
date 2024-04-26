@@ -10,9 +10,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "react": "^0.0.0-experimental-2f8f77602-20240229",
-    "react-dom": "^0.0.0-experimental-2f8f77602-20240229",
-    "react-router-dom": "^6.22.2"
+    "react": "^0.0.0-experimental-94eed63c49-20240425",
+    "react-dom": "^0.0.0-experimental-94eed63c49-20240425",
+    "react-router-dom": "^6.23.0"
   },
   "devDependencies": {
     "@types/react": "^18.2.56",
